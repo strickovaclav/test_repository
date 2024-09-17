@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rock and stone
+=======
+Rock and Stone
+>>>>>>> 1ab0be776719d25d6e63f8b7e08f89756b3c881f
